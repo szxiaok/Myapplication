@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Bigger">放大</string>
+    <string name="confirm">确认</string>
+    <string name="hello_world">Hello world</string>
+    <string name="txt">哈哈</string>
+</resources>
